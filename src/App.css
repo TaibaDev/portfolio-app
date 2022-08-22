@@ -1,0 +1,20 @@
+.service{
+max-width:800px !important;    
+}
+.mainserv{
+    background-color: black !important;
+}
+.card1{
+    display: flex !important;
+}
+.link{
+   padding: 30px;
+}
+.link:hover{
+    background-color: blue !important;
+    border-radius: 10px !important;
+}
+.icons{
+    padding: 10px !important;
+    color: blue !important;
+}
